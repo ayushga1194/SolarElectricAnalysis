@@ -1,0 +1,2 @@
+# SolarElectricAnalysis
+Solar_Electric_Programs_Reported_by_NYSERDA__Beginning_2000
