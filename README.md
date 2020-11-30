@@ -1,10 +1,9 @@
 # SolarElectricAnalysis
-Solar_Electric_Programs_Reported_by_NYSERDA__Beginning_2000
-UB EAS 503 Final project.
+Solar_Electric_Programs_Reported_by_NYSERDA__Beginning_2000.<br/>
+UB EAS 503 Final project.<br/>
 
 # Contributors
-Ayush Gandhi ayushgan@buffalo.edu
-Jugal Lapsiwala
-Mark Sigalov 
-Raj Karra
-
+Ayush Gandhi ayushgan@buffalo.edu.<br/>
+Jugal Lapsiwala.<br/>
+Mark Sigalov.<br/>
+Raj Karra.<br/>
