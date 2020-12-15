@@ -8,10 +8,10 @@ UB EAS 503 Final project.<br/>
 ## Raj Karra.<br/>
 
 # Introduction
-Notebook link : https://github.com/ayushga1194/SolarElectricAnalysis/blob/main/Plots_Database_SolarAnalysis.ipynb
+Notebook link : https://github.com/ayushga1194/SolarElectricAnalysis/blob/main/Plots_Database_SolarAnalysis.ipynb<br/>
 The data was extracted from New York State Data Portal
-Main dataset contains total of 113K records
-The data set used for analysis is from 2000-2020
+Main dataset contains total of 113K records.<br/>
+The data set used for analysis is from year 2000-2020.
 
 Dataset Information:- https://data.ny.gov/Energy-Environment/Solar-Electric-Programs-Reported-by-NYSERDA-Beginn/3x8r-34rs
 
