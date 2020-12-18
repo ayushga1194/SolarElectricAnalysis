@@ -2,15 +2,19 @@
 Solar_Electric_Programs_Reported_by_NYSERDA__Beginning_2000.<br/>
 UB EAS 503 Final project.<br/>
 
+# Goal of Project
+To predict the 2025 Solar KW DC capacity whether it meets the Goal of NY State.
+
 # Contributors
 ## Ayush Gandhi ayushgan@buffalo.edu.<br/>
-## Mark Sigalov.<br/>
-## Raj Karra.<br/>
+## Mark Sigalov marksiga@buffalo.edu.<br/>
+## Raj Karra rajyavar@buffalo.edu.<br/>
 
 # Introduction
 Notebook link : https://github.com/ayushga1194/SolarElectricAnalysis/blob/main/SolarAnalysis_NYSERDA_Final.ipynb<br/>
+Time Period of the dateset is 2000-2020
 The data was extracted from New York State Data Portal
-Main dataset contains total of 113K records.<br/>
+Dataset contains total of 113K records.<br/>
 The data set used for analysis is from year 2000-2020.
 
 Dataset Information:- https://data.ny.gov/Energy-Environment/Solar-Electric-Programs-Reported-by-NYSERDA-Beginn/3x8r-34rs
@@ -45,3 +49,19 @@ Dataset Information:- https://data.ny.gov/Energy-Environment/Solar-Electric-Prog
 | Affordable Solar | Text | Indicates if project is part of Affordable Solar program  |
 | Community Distributed Generation | Text | Indicates if project Community Distributed Generation (Shared Solar) |
 | Green Jobs Green New York Participant | Text | Indicates if project accessed Green Jobs-Green New York financing. Blank cells represent data that were not required or are not currently available |
+
+# Data Cleansing
+### Following columns were dropped from dataset
+-  Reporting Period
+-  Legacy Project Number
+-  State
+-  Solicitation
+-  Primary Inverter Model Number
+-  PV Module Model Number
+-  Primary Inverter Model Number
+-  Primary Inverter Model Number
+
+### After data cleansing the final data set has 112K records of solar power plants
+
+# Derived Columns
+- Days- Difference of DateApplicationReceived and DateApplicationCompleted
